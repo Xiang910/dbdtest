@@ -1,0 +1,10 @@
+DBD\Manager\ItemManager.class
+DBD\Task\WaitingTask.class
+DBD\Loader.class
+DBD\Manager\FormManager.class
+DBD\Arena$1.class
+DBD\Listener\ArenaListener.class
+DBD\Arena.class
+DBD\Room.class
+DBD\Command\GameCommand.class
+DBD\Listener\LobbyListener.class

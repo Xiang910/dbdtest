@@ -1,0 +1,8 @@
+name: DBD
+api: 1.0.0
+main: DBD.Loader
+version: 1.0.0
+author: MIDAGE Team
+
+loadbefore:
+  - MIDAGEcore2
